@@ -1,0 +1,9 @@
+{
+	"ip":"UntukSemua1.aternos.me",
+	"port": "57270",
+	"name": "botAlungGaming",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
